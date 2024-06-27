@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(247, 244, 215);
+
+}
+
+.text2 {
+
+    padding-left: 40%;
+    padding-top: 10px;
+}
+
+
+.header {
+    background-image: url(../images/header/pexels-pixabay-206359.jpg);
+    background-size: cover;
+    color: white;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-shadow: 4px 3px 4px rgba(201, 126, 126, 0.6);
+    text-align: center;
+}
+
+.header h1 {
+    font-size: 3.5rem;
+    font-weight: bold;
+}
+
+.header p {
+    font-size: 1.5rem;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.icone1 {
+
+    margin-right: 5px;
+
+}
+
+.carousel-image {
+
+    height: 400px;
+    width: 370px;
+}
+
+.nav-inicio:hover {
+
+    background-color: rgb(86, 89, 99);
+    transition: 0.5s;
+    border-radius: 6px;
+    color: aliceblue;
+}
